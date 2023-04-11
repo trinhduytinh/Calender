@@ -1,0 +1,12 @@
+D:\pttkhdt\Calender\Calender\bin\Debug\Calender.exe.config
+D:\pttkhdt\Calender\Calender\bin\Debug\Calender.exe
+D:\pttkhdt\Calender\Calender\bin\Debug\Calender.pdb
+D:\pttkhdt\Calender\Calender\obj\Debug\Calender.csproj.AssemblyReference.cache
+D:\pttkhdt\Calender\Calender\obj\Debug\Calender.csproj.SuggestedBindingRedirects.cache
+D:\pttkhdt\Calender\Calender\obj\Debug\Calender.Form1.resources
+D:\pttkhdt\Calender\Calender\obj\Debug\Calender.Properties.Resources.resources
+D:\pttkhdt\Calender\Calender\obj\Debug\Calender.csproj.GenerateResource.cache
+D:\pttkhdt\Calender\Calender\obj\Debug\Calender.csproj.CoreCompileInputs.cache
+D:\pttkhdt\Calender\Calender\obj\Debug\Calender.exe
+D:\pttkhdt\Calender\Calender\obj\Debug\Calender.pdb
+D:\pttkhdt\Calender\Calender\obj\Debug\Calender.DailyPlan.resources
